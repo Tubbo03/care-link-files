@@ -1,5 +1,5 @@
 import doctor1 from '../assets/doctor1.jpg'
-import doctorLoginComponent from '../components/doctorLoginComponent'
+import DoctorLoginComponent from '../components/doctorLoginComponent'
 import  '../styles/loginsignupScreenStyle.css'
 
 function DoctorLoginScreen() {
